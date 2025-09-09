@@ -6,6 +6,6 @@ You can find my photo, a short introduction, my education and work experience, a
 
 The page is responsive, so it works well on all devices. It’s also ready to be improved with JavaScript features or connected to a backend if needed in the future.
 
-I built it using HTML, CSS, Bootstrap, and some JavaScript, with the possibility to add backend technologies like Node.js or Django and databases such as MySQL or PostgreSQL later on.
+I built it using HTML, CSS, Bootstrap, and some JavaScript, with the possibility to add backend technologies like Node.js or Django and databases such as Json,SQL later on.
 
 Overall, it’s a simple, clean way to show my profile online, with room to make it more interactive and dynamic over time.
