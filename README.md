@@ -1,8 +1,11 @@
-# Lab-AI: Revolutionizing Laboratory Operations through Artificial Intelligence
+Kamran Muradov – Biography Web Page
 
-Lab-AI is a pioneering project designed to redefine the way laboratories operate by leveraging advanced artificial intelligence technologies. Its mission is to create an innovative and systematic support system for laboratory management, enabling automated data analysis, optimized workflows, and enhanced decision-making capabilities. This project aims to seamlessly integrate AI with laboratory processes, enhancing both efficiency and accuracy, while fostering new opportunities for operational excellence and scientific breakthroughs.
+This project is my personal biography web page. It’s designed to give a quick overview of who I am, my skills, and my experience. The page has a Matrix-style background that gives it a techy, futuristic feel.
 
-Through cutting-edge algorithms and intelligent automation, Lab-AI seeks to empower laboratory professionals to manage their daily operations more effectively, reduce human error, and improve overall productivity. By focusing on the unique needs of scientific environments, Lab-AI will provide robust solutions that cater to diverse laboratory settings, from chemical and biological testing to advanced data analytics and reporting.
+You can find my photo, a short introduction, my education and work experience, as well as my technical and language skills. Everything is organized so that it’s easy to read and navigate.
 
-The project represents a critical step toward transforming traditional laboratory systems into intelligent, AI-powered ecosystems capable of meeting the challenges of modern science and research.
+The page is responsive, so it works well on all devices. It’s also ready to be improved with JavaScript features or connected to a backend if needed in the future.
 
+I built it using HTML, CSS, Bootstrap, and some JavaScript, with the possibility to add backend technologies like Node.js or Django and databases such as MySQL or PostgreSQL later on.
+
+Overall, it’s a simple, clean way to show my profile online, with room to make it more interactive and dynamic over time.
