@@ -1,1 +1,25 @@
-This is my result
+WEB Content
+Frontend
+HTML
+CSS
+JavaScript
+JSON 
+Backend
+C#
+API connection
+MS SQL Server (Docker)
+SMTP Connection
+Application Version
+React (Android, IOS)
+Security Aspect
+SQL Injection 
+Fishing attack
+DOS, DDOS
+Social Engineering security
+FTP Connection Security
+Malware attack
+Ransomware attack
+Spareware attack
+Bug-bounty defence
+Firewall securty
+
