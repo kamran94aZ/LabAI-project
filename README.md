@@ -1,11 +1,21 @@
-Kamran Muradov – Biography Web Page
+Market is a responsive web application built using HTML, CSS, and JavaScript. It is designed to simulate a restaurant and grocery marketplace where users can browse products, view details, and interact with the interface.
 
-This project is my personal biography web page. It’s designed to give a quick overview of who I am, my skills, and my experience. The page has a Matrix-style background that gives it a techy, futuristic feel.
+Features
 
-You can find my photo, a short introduction, my education and work experience, as well as my technical and language skills. Everything is organized so that it’s easy to read and navigate.
+Responsive Design: Works on desktops, tablets, and mobile devices.
 
-The page is responsive, so it works well on all devices. It’s also ready to be improved with JavaScript features or connected to a backend if needed in the future.
+Product Listings: View available items with images, descriptions, and prices.
 
-I built it using HTML, CSS, Bootstrap, and some JavaScript, with the possibility to add backend technologies like Node.js or Django and databases such as Json, SQL later on.
+Interactive UI: JavaScript-powered interactions for a smooth user experience.
 
-Overall, it’s a simple, clean way to show my profile online, with room to make it more interactive and dynamic over time.
+Category Navigation: Browse products by categories like food, beverages, and groceries.
+
+Modern Layout: Clean and intuitive design using HTML & CSS.
+
+Technologies Used
+
+HTML5 – Structure and content of the project.
+
+CSS3 – Styling, layouts, and responsiveness.
+
+JavaScript – Dynamic behavior and interactivity.
